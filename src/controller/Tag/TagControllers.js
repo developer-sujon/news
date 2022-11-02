@@ -75,7 +75,7 @@ const TagDropDown = async (req, res, next) => {
       },
       {
         label: "$TagName",
-        value: "$_id",
+        value: "$TagSlug",
       },
     );
     res.json(result);

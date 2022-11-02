@@ -35,20 +35,17 @@ const NewsSchema = new Schema(
       type: Number,
       default: 0,
     },
-    CategoryId: {
-      type: Schema.Types.ObjectId,
-      ref: "Category",
+    Category: {
+      type: String,
       required: true,
     },
-    SubCategoryId: {
-      type: Schema.Types.ObjectId,
-      ref: "SubCategory",
+    SubCategory: {
+      type: String,
     },
-    TagId: {
+    Tags: {
       type: [
         {
-          type: Schema.Types.ObjectId,
-          ref: "Tag",
+          type: String,
         },
       ],
     },

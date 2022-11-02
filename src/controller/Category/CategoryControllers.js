@@ -75,7 +75,7 @@ const CategoryDropDown = async (req, res, next) => {
       },
       {
         label: "$CategoryName",
-        value: "$_id",
+        value: "$CategorySlug",
       },
     );
     res.json(result);

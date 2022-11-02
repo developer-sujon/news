@@ -64,8 +64,8 @@ const NewsList = async (req, res, next) => {
   const JoinStageOne = {
     $lookup: {
       from: "categories",
-      localField: "CategoryId",
-      foreignField: "_id",
+      localField: "Category",
+      foreignField: "CategorySlug",
       as: "Category",
     },
   };
@@ -73,8 +73,8 @@ const NewsList = async (req, res, next) => {
   const JoinStageTow = {
     $lookup: {
       from: "subcategories",
-      localField: "SubCategoryId",
-      foreignField: "_id",
+      localField: "SubCategory",
+      foreignField: "SubCategorySlug",
       as: "SubCategory",
     },
   };
@@ -82,8 +82,8 @@ const NewsList = async (req, res, next) => {
   const JoinStageThree = {
     $lookup: {
       from: "tags",
-      localField: "TagId",
-      foreignField: "_id",
+      localField: "Tags",
+      foreignField: "Tags",
       as: "Tag",
     },
   };
@@ -95,9 +95,10 @@ const NewsList = async (req, res, next) => {
       NewsTitleSlug: 1,
       CategoryName: { $first: "$Category.CategoryName" },
       SubCategoryName: { $first: "$SubCategory.SubCategoryName" },
-      Tag: { TagName: 1 },
+      Tag: { TagName: 1, TagSlug: 1 },
       NewsDetails: 1,
       NewsViews: 1,
+      NewsStatus: 1,
     },
   };
 
@@ -171,8 +172,8 @@ const NewsDetailsBySlug = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -180,8 +181,8 @@ const NewsDetailsBySlug = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -189,8 +190,8 @@ const NewsDetailsBySlug = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };
@@ -245,8 +246,8 @@ const NewsDetailsByCategory = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -254,8 +255,8 @@ const NewsDetailsByCategory = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -263,8 +264,8 @@ const NewsDetailsByCategory = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };
@@ -292,7 +293,7 @@ const NewsDetailsByCategory = async (req, res, next) => {
     };
 
     const MatchQuery = {
-      CategoryId: ObjectId(req.params.category),
+      Category: req.params.category,
       NewsStatus: true,
     };
     const result = await DetailsQueryService(
@@ -322,8 +323,8 @@ const NewsDetailsBySubCategory = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -331,8 +332,8 @@ const NewsDetailsBySubCategory = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -340,8 +341,8 @@ const NewsDetailsBySubCategory = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };
@@ -369,7 +370,7 @@ const NewsDetailsBySubCategory = async (req, res, next) => {
     };
 
     const MatchQuery = {
-      SubCategoryId: ObjectId(req.params.subCategory),
+      SubCategory: req.params.subCategory,
       NewsStatus: true,
     };
     const result = await DetailsQueryService(
@@ -399,8 +400,8 @@ const NewsDetailsByTag = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -408,8 +409,8 @@ const NewsDetailsByTag = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -417,8 +418,8 @@ const NewsDetailsByTag = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };
@@ -446,7 +447,7 @@ const NewsDetailsByTag = async (req, res, next) => {
     };
 
     const MatchQuery = {
-      TagId: { $in: [ObjectId(req.params.tag)] },
+      Tags: { $in: [req.params.tag] },
       NewsStatus: true,
     };
     const result = await DetailsQueryService(
@@ -476,8 +477,8 @@ const NewsPopular = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -485,8 +486,8 @@ const NewsPopular = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -494,8 +495,8 @@ const NewsPopular = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };
@@ -552,8 +553,8 @@ const NewsLatest = async (req, res, next) => {
     const JoinStageOne = {
       $lookup: {
         from: "categories",
-        localField: "CategoryId",
-        foreignField: "_id",
+        localField: "Category",
+        foreignField: "CategorySlug",
         as: "Category",
       },
     };
@@ -561,8 +562,8 @@ const NewsLatest = async (req, res, next) => {
     const JoinStageTow = {
       $lookup: {
         from: "subcategories",
-        localField: "SubCategoryId",
-        foreignField: "_id",
+        localField: "SubCategory",
+        foreignField: "SubCategorySlug",
         as: "SubCategory",
       },
     };
@@ -570,8 +571,8 @@ const NewsLatest = async (req, res, next) => {
     const JoinStageThree = {
       $lookup: {
         from: "tags",
-        localField: "TagId",
-        foreignField: "_id",
+        localField: "Tags",
+        foreignField: "TagSlug",
         as: "Tag",
       },
     };

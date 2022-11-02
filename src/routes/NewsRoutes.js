@@ -45,7 +45,7 @@ NewsRoutes.get(
 //News Popular
 NewsRoutes.get("/NewsPopular", NewsControllers.NewsPopular);
 
-//News Popular
+//News Lastest
 NewsRoutes.get("/NewsLatest", NewsControllers.NewsLatest);
 
 //News Update
