@@ -1,16 +1,26 @@
-//External Lib Import
-import AppRoutes from "./routes/Routes";
-import { Toaster } from "react-hot-toast";
-import FullScreenLoader from "./components/Common/FullScreenLoader";
+import { Routes,Route } from "react-router-dom";
+import Footer from "./components/footer/Footer";
+import NavBar from "./components/navbar/NavBar";
+import Home from "./pages/home/Home";
+import Cricket from "./pages/sports/cricket/Cricket";
 
-const App = () => {
-  return (
-    <>
-      <AppRoutes />
-      <Toaster />
-      <FullScreenLoader />
-    </>
-  );
-};
 
-export default App;
+
+function App() {
+
+   return (
+       <> 
+        <NavBar/>
+        <Routes>
+              <Route path="/" element={ <Home/>} />
+              <Route path="/sports/" > 
+                   <Route path="cricket" element={ <Cricket/>} />
+             </Route>
+        </Routes> 
+        <Footer/> 
+      </>       
+    
+   );
+}
+
+export default App
