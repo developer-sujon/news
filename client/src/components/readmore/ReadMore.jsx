@@ -1,13 +1,17 @@
-import React from 'react'
-import './ReadMore.css'
+import React from "react";
+import "./ReadMore.css";
 
-function ReadMore({className, style, title}) {
-
+function ReadMore({ className, style, title }) {
   return (
-     <div className='readMoreWrapper'>
-        <button className={`${className && className} readMoreBtn`} style={style && {...style}} >{title}</button>
+    <div className="ReadMoreWrapper">
+      <button
+        className={`${className && className} ReadMoreBtn`}
+        style={style && { ...style }}
+      >
+        {title}
+      </button>
     </div>
-  )
+  );
 }
 
-export default ReadMore
+export default ReadMore;

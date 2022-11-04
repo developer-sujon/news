@@ -46,6 +46,8 @@ const NewsCreateUpdatePage = () => {
     NewsThumbnail: yup.string().required("Please Enter News Thumbnail"),
   });
 
+  console.log(NewsDetails);
+
   /*
    * form methods
    */
@@ -120,7 +122,7 @@ const NewsCreateUpdatePage = () => {
                           containerClass={"mb-3"}
                           type="react-single-select"
                           options={CategoryDropDown}
-                          defaultValue={CategoryDropDown.find(
+                          defaultValue={CategoryDropDown?.find(
                             (i) => i.value === NewsDetails?.Category,
                           )}
                         />
@@ -132,7 +134,7 @@ const NewsCreateUpdatePage = () => {
                           containerClass={"mb-3"}
                           type="react-single-select"
                           options={SubCategoryDropDown}
-                          defaultValue={SubCategoryDropDown.find(
+                          defaultValue={SubCategoryDropDown?.find(
                             (i) => i.value === NewsDetails?.SubCategory,
                           )}
                         />
@@ -144,7 +146,6 @@ const NewsCreateUpdatePage = () => {
                           containerClass={"mb-3"}
                           type="react-multiple-select"
                           options={TagDropDown}
-                          defaultValue={[]}
                         />
 
                         <FormInput
