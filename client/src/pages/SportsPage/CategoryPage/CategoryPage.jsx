@@ -1,11 +1,14 @@
+// Externall Import
 import React, { useEffect } from "react";
 import { Col, Container, Row } from "react-bootstrap";
+import { useSelector } from "react-redux";
+
+//  Internall Import
 import ReadMore from "../../../components/ReadMore/ReadMore";
 import Sidebar from "../../../components/Sidebar/Sidebar";
 import SportsGrid from "../../../components/SportsGrid/SportsGrid";
 import SectionTitle from "../../../components/SectionTitle/SectionTitle";
 import Layout from "../../../components/Layout/Layout";
-import { useSelector } from "react-redux";
 import NewsRequest from "../../../APIRequest/NewsRequest";
 
 function CategoryPage() {

@@ -1,30 +1,32 @@
+//  External Import
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import climet from "../../assets/images/climet-report-1667232205.jpg";
+
+
+// Internal Import
 import "./LeadNewsList.css";
 
-function LeadNewsList() {
+
+
+function LeadNewsList({thumb, title}) {
+
+
   return (
-    <div className="LeadNewsList bg-light py-3">
-      <Row>
-        <Col lg={4}>
-          <div className="newsImg video">
+    <div className="LeadNewsListGrid bg-light">
+    
+          <div className="newsImg">
             <figure>
               <picture>
-                <img src={climet} alt="" />
+                <img src={thumb} alt="" />
               </picture>
             </figure>
           </div>
-        </Col>
-        <Col lg={8}>
+ 
           <div className="desc">
             <h3>
-              ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার শঙ্কা
-              (ভিডিও)
+              {title}
             </h3>
           </div>
-        </Col>
-      </Row>
     </div>
   );
 }

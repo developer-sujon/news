@@ -1,15 +1,40 @@
-.LeadNewsList {
+.LeadNewsListGrid {
   border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+  display: flex;
 }
 
-.LeadNewsList .desc h3 {
+.LeadNewsListGrid .newsImg {
+   flex: 1;
+}
+
+.LeadNewsListGrid .desc {
+   padding: 8px;
+   flex: 2;
+}
+
+.LeadNewsListGrid .desc h3 {
   font-size: 15px;
   font-weight: 700;
   line-height: 26px;
 }
 
+a .LeadNewsListGrid .desc h3 {
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  transition: all 0.4s;
+  color: #333;
+}
+
+a:hover .LeadNewsListGrid .desc h3 {
+   color: #a62107;
+}
+
+
 .newsImg.video {
   position: relative;
+  padding: 10px 0;
 }
 .newsImg.video::after {
   content: "\f04b";

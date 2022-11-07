@@ -1,5 +1,6 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 import "./SportsGrid.css";
 
@@ -19,11 +20,11 @@ function SportsGrid() {
         <Col lg={8}>
           <div className="desc">
             <div className="title">
-              <a href={"/"}>
+              <Link to="/sports/cricket/a">
                 <h5>
                   সেমির লড়াইয়ে টিকে থাকতে ভারতের বিপক্ষে অঘটন চায় বাংলাদেশ{" "}
                 </h5>
-              </a>
+              </Link>
               <p>
                 সেমিফাইনালে আশা বাঁচিয়ে রাখতে শক্তিশালী ভারতকে হারানোর লক্ষ্য
                 নিয়েই বুধবার (২ নভেম্বর) মাঠে নামবে বাংলাদেশ ক্রিকেট দল।

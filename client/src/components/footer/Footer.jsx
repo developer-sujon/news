@@ -2,7 +2,7 @@ import React from "react";
 import Logo from "../../assets/images/logo.webp";
 import { Container, Row, Col } from "react-bootstrap";
 import "./Footer.css";
-
+ 
 function Footer() {
   return (
     <footer id="Footer">

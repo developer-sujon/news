@@ -1,13 +1,16 @@
 //External Lib Import
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
 //Internal Lib Import
-import SocialMedia from "../../components/SocialMedia/SocialMedia";
-import SectionTitle from "../../components/SectionTitle/SectionTitle";
-import LeadNewsList from "../../components/LeadNewsList/LeadNewsList";
 import "./SinglePage.css";
 import Layout from "../../components/Layout/Layout";
+import LazyLoader from "../../components/LazyLoader/LazyLoader";
+const SocialMedia = lazy(() => import("../../components/SocialMedia/SocialMedia"));
+const SectionTitle = lazy(() => import("../../components/SectionTitle/SectionTitle"));
+const LeadNewsList = lazy(() => import("../../components/LeadNewsList/LeadNewsList"));
+
+
 
 function SinglePage() {
   // Demo Data
@@ -16,6 +19,7 @@ function SinglePage() {
 
   return (
     <Layout>
+      <Suspense fallback={<LazyLoader/>}>
       <main className="mt-2">
         <Container>
           <SectionTitle style={{ margin: "25px 0" }} title={"ক্রিকেট"} />
@@ -119,6 +123,7 @@ function SinglePage() {
           </Row>
         </Container>
       </main>
+      </Suspense>
     </Layout>
   );
 }

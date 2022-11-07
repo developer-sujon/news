@@ -6,13 +6,13 @@ import "./NewsGrid.css";
 
 function NewsGrid() {
   return (
-    <div style={{ borderBottom: "1px solid #ddd" }}>
-      <Link to={"/:id"}>
+    <div className="border-inner-bottom">
+      <Link to={"/sports/cricket/a"}>
         <div className="leadNews">
           <Card className="border-0" style={{ width: "100%" }}>
             <Card.Img variant="top" src={NewsThumb} />
             <Card.Title className="p-2">
-              <Link to={"/:id"}>
+              <Link to={"/sports/cricket/a"}>
                 {" "}
                 <h5>
                   ভিনদেশি সস্তা ওয়েবসাইটের লেখা পাত্তা না দেয়ার আহ্বান মাশরাফির

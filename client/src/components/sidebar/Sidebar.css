@@ -24,14 +24,16 @@ li.nav-item button {
 }
 
 .Sidebar ul {
-  position: sticky;
-  top: 0;
-  left: 0;
-  z-index: 9;
+  border-bottom: 2px solid #ddd;
 }
 
 .Sidebar ul li button {
   background-color: #f5f5f5 !important;
+}
+
+.tab-content {
+  height: 350px;
+  overflow-y: auto;
 }
 
 .listData span {

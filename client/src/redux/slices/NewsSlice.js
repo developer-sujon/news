@@ -1,10 +1,35 @@
 //external import
 import { createSlice } from "@reduxjs/toolkit";
 
+
+// Internal Import
+import climet from "../../assets/images/climet-report-1667232205.jpg";
+
+let demoNewsLists = [
+  {
+    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
+    videoThumb: climet,
+  },
+  {
+    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
+    videoThumb: climet,
+  },
+  {
+    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
+    videoThumb: climet,
+  },
+   {
+    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
+    videoThumb: climet,
+  }
+]
+
+
+
 const NewsSlice = createSlice({
   name: "News",
   initialState: {
-    NewsLists: [],
+    NewsLists:demoNewsLists,
     NewsDropDown: [],
     TotalNews: 0,
   },
