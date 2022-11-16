@@ -58,14 +58,8 @@ const App = () => {
               path="australia/:slug"
               element={<SinglePage label={"অস্ট্রেলিয়া"} />}
             />
-            <Route
-              path="asia"
-              element={<SubCategoryPage label={"এশিয়া"} />}
-            />
-            <Route
-              path="asia/:slug"
-              element={<SinglePage label={"এশিয়া"} />}
-            />
+            <Route path="asia" element={<SubCategoryPage label={"এশিয়া"} />} />
+            <Route path="asia/:slug" element={<SinglePage label={"এশিয়া"} />} />
             <Route
               path="africa"
               element={<SubCategoryPage label={"আফ্রিকা"} />}
@@ -88,6 +82,10 @@ const App = () => {
             <Route
               path="commercial"
               element={<SubCategoryPage label={"কর্পোরেট"} />}
+            />
+            <Route
+              path="commercial/:slug"
+              element={<SinglePage label={"কর্পোরেট"} />}
             />
           </Route>
           <Route path="/sports">
