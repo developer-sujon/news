@@ -31,10 +31,32 @@ class NewsRequest {
   }
 
   static async NewsDetails(id, postBody) {
-    const { data } = await RestClient.getRequest(`/NewsDetails/${id}`);
+    const { data } = await RestClient.getRequest(`/News/NewsDetails/${id}`);
 
     if (data.status === "success") {
       store.dispatch(SetNewsDetails(data?.data?.[0]));
+      return true;
+    }
+  }
+
+  static async NewsDetailsBySlug(slug) {
+    const { data } = await RestClient.getRequest(
+      `/News/NewsDetailsBySlug/${slug}`,
+    );
+
+    if (data) {
+      store.dispatch(SetNewsDetails(data?.[0]));
+      return true;
+    }
+  }
+
+  static async NewsDetailsBySubCategory(SubCategory) {
+    const { data } = await RestClient.getRequest(
+      `/News/NewsDetailsBySubCategory/${SubCategory}`,
+    );
+
+    if (data) {
+      store.dispatch(SetNewsLists(data));
       return true;
     }
   }

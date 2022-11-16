@@ -1,37 +1,13 @@
-//external import
+//External Lib Import
 import { createSlice } from "@reduxjs/toolkit";
-
-
-// Internal Import
-import climet from "../../assets/images/climet-report-1667232205.jpg";
-
-let demoNewsLists = [
-  {
-    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
-    videoThumb: climet,
-  },
-  {
-    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
-    videoThumb: climet,
-  },
-  {
-    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
-    videoThumb: climet,
-  },
-   {
-    title:'ঘূর্ণিঝড়ে বছরে ক্ষতি ১০ হাজার কোটি টাকা, কৃষি জিডিপি কমার (ভিডিও)',
-    videoThumb: climet,
-  }
-]
-
-
 
 const NewsSlice = createSlice({
   name: "News",
   initialState: {
-    NewsLists:demoNewsLists,
+    NewsLists: [],
     NewsDropDown: [],
     TotalNews: 0,
+    NewsDetails: {},
   },
   reducers: {
     SetNewsLists(state, action) {
@@ -44,7 +20,7 @@ const NewsSlice = createSlice({
       state.NewsDropDown = action.payload;
     },
     SetNewsDetails(state, action) {
-      state.FormValue = action.payload;
+      state.NewsDetails = action.payload;
     },
   },
 });

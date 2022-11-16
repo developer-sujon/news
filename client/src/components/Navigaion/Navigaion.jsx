@@ -15,7 +15,7 @@ function Navigaion() {
             <Col lg={9}>
               <div className="dateAndTime">
                 <p>
-                  <i className="fa-solid fa-location-pin"></i> ঢাকা{" "}
+                  <i className="fa-solid fa-location-pin"></i> ঢাকা
                   <i className="fa-solid fa-calendar"></i> মঙ্গলবার , ০১ নভেম্বর
                   ২০২২, ১৬ অগ্রহায়ণ ১৪২৯, ০৬ রবিউস সানি ১৪৪৪
                 </p>
@@ -90,99 +90,105 @@ function Navigaion() {
                   <Navbar.Collapse id="basic-navbar-nav">
                     <Nav>
                       <Link to="/">প্রচ্ছদ</Link>
-                      <Link to="/">জাতীয়</Link>
-                      <Link to="/">
+                      <Link to="/national">জাতীয়</Link>
+                      <Link to="/politics">
                         রাজনীতি <i className="fa-solid fa-caret-down"></i>
                         <ul className="dropDown">
                           <li>
-                            <Link to={"/"}> আওয়ামী লীগ</Link>
+                            <Link to={"/politics/awami-league"}>
+                              আওয়ামী লীগ
+                            </Link>
                           </li>
                           <li>
-                            <Link to={"/"}> বিএনপি</Link>
+                            <Link to={"/politics/bnp"}> বিএনপি</Link>
                           </li>
                           <li>
-                            <Link to={"/"}> অন্যান্য</Link>
+                            <Link to={"/politics/others"}> অন্যান্য</Link>
                           </li>
                         </ul>
                       </Link>
-                      <Link to="#link">
+                      <Link to="/international">
                         আন্তর্জাতিক <i className="fa-solid fa-caret-down"></i>
                         <ul className="dropDown">
                           <li>
-                            <Link to={"/"}>আমেরিকা</Link>
+                            <Link to={"/international/america"}>আমেরিকা</Link>
                           </li>
                           <li>
-                            <Link to={"/"}> ইউরোপ</Link>
+                            <Link to={"/international/europe"}> ইউরোপ</Link>
                           </li>
                           <li>
-                            <Link to={"/"}> অস্ট্রেলিয়া</Link>
+                            <Link to={"/international/australia"}>
+                              অস্ট্রেলিয়া
+                            </Link>
                           </li>
                           <li>
-                            <Link to={"/"}> এশিয়া</Link>
+                            <Link to={"/international/asia"}> এশিয়া</Link>
                           </li>
                           <li>
-                            <Link to={"/"}> আফ্রিকা</Link>
+                            <Link to={"/international/africa"}> আফ্রিকা</Link>
                           </li>
                           <li>
-                            <Link to={"/"}> মধ্যপ্রাচ্য</Link>
+                            <Link to={"/international/middle-east"}>
+                              মধ্যপ্রাচ্য
+                            </Link>
                           </li>
                         </ul>
                       </Link>
-                      <Link to="#link">
+                      <Link to="/economy">
                         অর্থনীতি <i className="fa-solid fa-caret-down"></i>
                         <ul className="dropDown">
                           <li>
-                            <Link to={"/"}>কর্পোরেট</Link>
+                            <Link to={"/economy/commercial"}>কর্পোরেট</Link>
                           </li>
                         </ul>
                       </Link>
-                      <Link to="#link">
+                      <Link to="/sports">
                         খেলা <i className="fa-solid fa-caret-down"></i>
                         <ul className="dropDown">
                           <li>
                             <Link to={"/sports/cricket"}> ক্রিকেট </Link>
                           </li>
                           <li>
-                            <Link to={"/api"}> ফুটবল </Link>
+                            <Link to={"/sports/football"}> ফুটবল </Link>
                           </li>
                           <li>
-                            <Link to={"/api"}> অন্যান্য </Link>
+                            <Link to={"/sports/other"}> অন্যান্য </Link>
                           </li>
                         </ul>
                       </Link>
-                      <Link to="#link">বিনোদন</Link>
-                      <Link to="#link">
+                      <Link to="/entertainment">বিনোদন</Link>
+                      <Link to="/countries">
                         সারাদেশ <i className="fa-solid fa-caret-down"></i>
                         <ul className="dropDown">
                           <li>
-                            <Link to={"/"}>ঢাকা</Link>
+                            <Link to={"/countries/dhaka"}>ঢাকা</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>চট্টগ্রাম</Link>
+                            <Link to={"/countries/chattogram"}>চট্টগ্রাম</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>খুলনা</Link>
+                            <Link to={"/countries/khulna"}>খুলনা</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>রাজশাহী</Link>
+                            <Link to={"/countries/rajshahi"}>রাজশাহী</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>সিলেট</Link>
+                            <Link to={"/countries/sylhet"}>সিলেট</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>বরিশাল</Link>
+                            <Link to={"/countries/barishal"}>বরিশাল</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>রংপুর</Link>
+                            <Link to={"/countries/rangpur"}>রংপুর</Link>
                           </li>
                           <li>
-                            <Link to={"/"}>ময়মনসিংহ</Link>
+                            <Link to={"/countries/mymensingh"}>ময়মনসিংহ</Link>
                           </li>
                         </ul>
                       </Link>
-                      <Link to="#link">লাইফস্টাইল</Link>
-                      <Link to="#link">ছবির গল্প</Link>
-                      <Link to="#link">ভিডিও গ্যালারি</Link>
+                      <Link to="/lifestyle">লাইফস্টাইল</Link>
+                      <Link to="/photo-story">ছবির গল্প</Link>
+                      <Link to="/video">ভিডিও গ্যালারি</Link>
                       <Link className="mega" to="#link">
                         সব <i className="fa-solid fa-bars"></i>
                         <div className="megaMenuWrapper">

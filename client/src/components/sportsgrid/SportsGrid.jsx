@@ -1,37 +1,33 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Row, Col } from "react-bootstrap";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 import "./SportsGrid.css";
 
-let sportImg =
-  "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/untitled-1-1667321911.jpg";
+function SportsGrid(news) {
+  let location = useLocation();
+  let pathname = location?.pathname;
 
-function SportsGrid() {
+  useEffect(() => {
+    window.scroll(0, 0);
+  }, []);
+
   return (
     <div className="sports-wrapper my-3">
       <Row>
         <Col lg={4}>
           <div className="thumb">
-            <img className="w-100" src={sportImg} alt="" />
+            <img className="w-100" src={news?.NewsThumbnail} alt={news?._id} />
           </div>
         </Col>
 
         <Col lg={8}>
           <div className="desc">
             <div className="title">
-              <Link to="/sports/cricket/a">
-                <h5>
-                  সেমির লড়াইয়ে টিকে থাকতে ভারতের বিপক্ষে অঘটন চায় বাংলাদেশ{" "}
-                </h5>
+              <Link to={pathname + "/" + news?.NewsTitleSlug}>
+                <h5>{news?.NewsTitle}</h5>
               </Link>
-              <p>
-                সেমিফাইনালে আশা বাঁচিয়ে রাখতে শক্তিশালী ভারতকে হারানোর লক্ষ্য
-                নিয়েই বুধবার (২ নভেম্বর) মাঠে নামবে বাংলাদেশ ক্রিকেট দল।
-                টি-টোয়েন্টি বিশ্বকাপে সুপার টুয়েলভে নিজেদের চতুর্থ ম্যাচে
-                অ্যাডিলেড ওভালে ভারতের বিপক্ষে এ নিজেদের সেরাটা দিতে প্রস্তুত
-                টাইগাররা।{" "}
-              </p>
+              <p>{news?.NewsDetails}</p>
             </div>
             <div className="fotr">
               <span>

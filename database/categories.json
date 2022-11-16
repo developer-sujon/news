@@ -1,0 +1,358 @@
+[{
+  "_id": {
+    "$oid": "6360bb8b62a3f8e443f8ba3d"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "রাজনীতি",
+  "CategorySlug": "politics",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283851485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283851485"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bb9f62a3f8e443f8ba41"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "জাতীয়",
+  "CategorySlug": "national",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283871468"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283871468"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "আন্তর্জাতিক",
+  "CategorySlug": "international",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283889493"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283889493"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bbbd62a3f8e443f8ba49"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "খেলা",
+  "CategorySlug": "sports",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283901630"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283901630"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bbc862a3f8e443f8ba4d"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "অর্থনীতি",
+  "CategorySlug": "economy",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283912323"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283912323"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bbd362a3f8e443f8ba51"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "বিনোদন",
+  "CategorySlug": "entertainment",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283923777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283923777"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bbe262a3f8e443f8ba55"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "লাইফস্টাইল",
+  "CategorySlug": "lifestyle",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667283938549"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667283938549"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "সারাদেশ",
+  "CategorySlug": "countries",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284349896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284349896"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f552138cf7ae02f3f3e9f"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "234",
+  "CategorySlug": "234",
+  "CategoryDetails": "<p>34234</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668240673658"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668240673658"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f553938cf7ae02f3f3ea7"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "sd",
+  "CategorySlug": "sdf",
+  "CategoryDetails": "<p>sdf</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668240697962"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668240697962"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f555538cf7ae02f3f3eb3"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "sdf",
+  "CategorySlug": "sdfsdf",
+  "CategoryDetails": "<p>sdfsdfsdf</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668240725338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668240725338"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f55b238cf7ae02f3f3ebd"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "sdf4",
+  "CategorySlug": "sd",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668240818781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668240818781"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f55df38cf7ae02f3f3eca"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "43",
+  "CategorySlug": "sd3",
+  "CategoryDetails": "",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668240863351"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668240863351"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f571038cf7ae02f3f3ee3"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "234224",
+  "CategorySlug": "234444",
+  "CategoryDetails": "<p>23424</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668241168475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668241168475"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f571f38cf7ae02f3f3ee8"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "234224f",
+  "CategorySlug": "234444f",
+  "CategoryDetails": "<p>23424</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668241183328"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668241183328"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f579138cf7ae02f3f3ef1"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "234m",
+  "CategorySlug": "2344m",
+  "CategoryDetails": "<p>234</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668241297748"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668241297748"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636f57b238cf7ae02f3f3eff"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryName": "sdf..",
+  "CategorySlug": "sdf..",
+  "CategoryDetails": "<p>4234</p>",
+  "CategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668241330409"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668241330409"
+    }
+  }
+}]

@@ -1,0 +1,505 @@
+[{
+  "_id": {
+    "$oid": "6360bc8112ec5efe82b9df61"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bb8b62a3f8e443f8ba3d"
+  },
+  "SubCategoryName": "আওয়ামী লীগ",
+  "SubCategorySlug": "awami-league",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284097243"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284097243"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bc9712ec5efe82b9df67"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bb8b62a3f8e443f8ba3d"
+  },
+  "SubCategoryName": "বিএনপি",
+  "SubCategorySlug": "bnp",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284119854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284119854"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bca312ec5efe82b9df6b"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bb8b62a3f8e443f8ba3d"
+  },
+  "SubCategoryName": "অন্যান্য",
+  "SubCategorySlug": "others",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284131405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284131405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bcbc12ec5efe82b9df6f"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "আমেরিকা",
+  "SubCategorySlug": "america",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284156573"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284156573"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bcdd12ec5efe82b9df75"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "ইউরোপ",
+  "SubCategorySlug": "europe",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284189613"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284189613"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bce812ec5efe82b9df79"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "অস্ট্রেলিয়া",
+  "SubCategorySlug": "australia",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284200821"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284200821"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bcf712ec5efe82b9df7d"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "এশিয়া",
+  "SubCategorySlug": "asia",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284215812"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284215812"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bd3712ec5efe82b9df85"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbbd62a3f8e443f8ba49"
+  },
+  "SubCategoryName": "ক্রিকেট",
+  "SubCategorySlug": "cricket",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284279987"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284279987"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bd4312ec5efe82b9df89"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbbd62a3f8e443f8ba49"
+  },
+  "SubCategoryName": "ফুটবল",
+  "SubCategorySlug": "football",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284291524"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284291524"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bd4e12ec5efe82b9df8d"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbbd62a3f8e443f8ba49"
+  },
+  "SubCategoryName": "অন্যান্য",
+  "SubCategorySlug": "other",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284302215"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284302215"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bd9912ec5efe82b9df95"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "ঢাকা",
+  "SubCategorySlug": "dhaka",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284377148"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284377148"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bda612ec5efe82b9df99"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "চট্টগ্রাম",
+  "SubCategorySlug": "chattogram",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284390355"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284390355"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bdb512ec5efe82b9df9d"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "খুলনা",
+  "SubCategorySlug": "khulna",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284405065"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284405065"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bdbf12ec5efe82b9dfa1"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "রাজশাহী",
+  "SubCategorySlug": "rajshahi",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284415984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284415984"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bdd712ec5efe82b9dfa5"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "বরিশাল",
+  "SubCategorySlug": "barishal",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284439185"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284439185"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360bdea12ec5efe82b9dfa9"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "রংপুর",
+  "SubCategorySlug": "rangpur",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284458370"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284458370"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360be0012ec5efe82b9dfad"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "ময়মনসিংহ",
+  "SubCategorySlug": "mymensingh",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667284480896"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667284480896"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360c336da73c91b5dfab47e"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "আফ্রিকা",
+  "SubCategorySlug": "africa",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667285814202"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667285814202"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360c347da73c91b5dfab482"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbb162a3f8e443f8ba45"
+  },
+  "SubCategoryName": "মধ্যপ্রাচ্য",
+  "SubCategorySlug": "middle-east",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667285831663"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667285831663"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360c3f2da73c91b5dfab486"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bd7d12ec5efe82b9df91"
+  },
+  "SubCategoryName": "সিলেট",
+  "SubCategorySlug": "sylhet",
+  "SubCategoryDetails": "All",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667286002669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667286002669"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360ff512cd60061039b916f"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "CategoryId": {
+    "$oid": "6360bbc862a3f8e443f8ba4d"
+  },
+  "SubCategoryName": "কর্পোরেট",
+  "SubCategorySlug": "commercial",
+  "SubCategoryDetails": "",
+  "SubCategoryStatus": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301201500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301201500"
+    }
+  }
+}]

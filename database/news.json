@@ -1,0 +1,898 @@
+[{
+  "_id": {
+    "$oid": "636104692cd60061039b91e2"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/hero-malek-1667229629.jpg",
+  "NewsTitle": "হিরো আলমকে থামানো যাবে না: মালেক আফসারী",
+  "NewsTitleSlug": "হিরো-আলমকে-থামানো-যাবে-না:-মালেক-আফসারী",
+  "NewsDetails": "বগুড়ার ছেলে আশরাফুল আলম। সোশ্যাল মিডিয়ার বরাতে ‘হিরো আলম’ নাম নিয়ে আলোচনায় আসেন তিনি। শুরু থেকে এ পর্যন্ত পৃথক সময়ে কখনো অভিনয়-গান-সিনেমা নির্মাণ করে এবং কখনো বিভিন্ন ইস্যুতে বিতর্কিত মন্তব্য করে আলোচনার জন্ম দিয়েছেন। এ কারণে সোশ্যালে নেটিজেনদের সমালোচনার শিকারও হয়ে থাকেন হিরো আলম।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "entertainment",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302505372"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302505372"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636104172cd60061039b91de"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/ongs-nite-nibndhner-abedn-jma-diye-za-bllen-nur-1667133132.jpg",
+  "NewsTitle": "নির্বাচনে অংশ নিতে নিবন্ধনের আবেদন জমা দিয়ে যা বললেন নুর",
+  "NewsTitleSlug": "নির্বাচনে-অংশ-নিতে-নিবন্ধনের-আবেদন-জমা-দিয়ে-যা-বললেন-নুর",
+  "NewsDetails": "<p>আগামী জাতীয় নির্বাচনে অংশ নেয়ার জন্য নিবন্ধনের আবেদন জমা দিয়েছেন গণঅধিকার পরিষদের সদস্যসচিব নুরুল হক নুর।</p>",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "other",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302423088"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668438816057"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103f72cd60061039b91da"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/gm-kader-1666075631-1667143053.jpg",
+  "NewsTitle": "জিএম কাদেরকে বিরোধীদলীয় নেতা ঘোষণা না করলে সংসদে যাবে না জাপা",
+  "NewsTitleSlug": "জিএম-কাদেরকে-বিরোধীদলীয়-নেতা-ঘোষণা-না-করলে-সংসদে-যাবে-না-জাপা",
+  "NewsDetails": "বর্তমানে জাতীয় পার্টি চেয়ারম্যান এবং বিরোধীদলীয় উপনেতা হিসেবে দায়িত্ব পালন করছেন জনবন্ধু গোলাম মোহাম্মদ কাদের (জিএম কাদের)।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "others",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302391553"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668439328810"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103cb2cd60061039b91d6"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/rowshan-ershad-1666970246-1667183493.jpg",
+  "NewsTitle": "রওশন এরশাদের ডাকা কাউন্সিল স্থগিত",
+  "NewsTitleSlug": "রওশন-এরশাদের-ডাকা-কাউন্সিল-স্থগিত",
+  "NewsDetails": "জাতীয় সংসদের বিরোধীদলীয় নেতা ও জাতীয় পার্টির (জাপা) প্রধান পৃষ্ঠপোষক রওশন এরশাদের ডাকা কাউন্সিল স্থগিত করা হয়েছে। আগামী ২৬ নভেম্বর ওই কাউন্সিল অনুষ্ঠিত হওয়ার কথা ছিল।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "others",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302347967"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302347967"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103a92cd60061039b91d2"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/jatiya-party-1667207536.jpg",
+  "NewsTitle": "স্পিকারের আশ্বাসে সংসদে যাবে জাতীয় পার্টি",
+  "NewsTitleSlug": "স্পিকারের-আশ্বাসে-সংসদে-যাবে-জাতীয়-পার্টি",
+  "NewsDetails": "<p>নানা নাটকীয়তার পর জাতীয় সংসদে যাওয়ার ঘোষণা দিয়েছে জাতীয় পার্টি। জিএম কাদেরকে বিরোধীদলীয় নেতা হিসেবে গেজেট প্রকাশ না করা পর্যন্ত জাতীয় পার্টির সংসদ সদস্যরা জাতীয় সংসদে যাবেন না বলে রোববার জানিয়েছিল দলটি।</p>",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "cricket",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302313031"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668439065774"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103882cd60061039b91ce"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/1620540303rob-1667222655.jpg",
+  "NewsTitle": "দেশ মহাবিপর্যয়ে, ৩ মাস পর রিজার্ভ সংকটে পড়তে যাচ্ছে: আ স ম রব",
+  "NewsTitleSlug": "দেশ-মহাবিপর্যয়ে,-৩-মাস-পর-রিজার্ভ-সংকটে-পড়তে-যাচ্ছে:-আ-স-ম-রব",
+  "NewsDetails": "জাতীয় সমাজতান্ত্রিক দলের (জেএসডি) সভাপতি আ স ম আবদুর রব বলেছেন, অর্থনৈতিকভাবে দেশ আজ ভয়ংকর সংকটে নিপতিত। সরকারের অপরিকল্পিত ও যথেচ্ছ ব্যবহারের কারণে বৈদেশিক মুদ্রার রিজার্ভ আগামী তিন মাস পর বড় সংকটে পড়তে যাচ্ছে। ক্রমবর্ধমান মুদ্রাস্ফীতি, বেকারত্ব, তীব্র জ্বালানি সংকট এবং নীরব দুর্ভিক্ষে দেশ চরম আর্থিক দুরবস্থায় নিপতিত হয়েছে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "others",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302280650"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302280650"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103502cd60061039b91c8"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/rumin-farhana-1667014452.jpg",
+  "NewsTitle": "সুষ্ঠু ভোট হলে বিএনপি ২৯০ আসন পাবে: রুমিন ফারহানা",
+  "NewsTitleSlug": "সুষ্ঠু-ভোট-হলে-বিএনপি-২৯০-আসন-পাবে:-রুমিন-ফারহানা",
+  "NewsDetails": "সুষ্ঠু নির্বাচন হলে বিএনপি ৩০০ আসনের মধ্যে ২৯০ আসন পাবে বলে মন্তব্য করেছেন বিএনপির কেন্দ্রীয় আন্তর্জাতিক বিষয়ক সম্পাদক ও সংরক্ষিত নারী আসনের সংসদ সদস্য ব্যারিস্টার রুমিন ফারহানা।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302224147"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668439327603"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636103252cd60061039b91c4"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/citl-mach-khan-ar-sadharn-manush-na-kheye-thake-1667042912.jpg",
+  "NewsTitle": "আপনারা চিতল মাছ খান আর সাধারণ মানুষ না খেয়ে থাকে : ফখরুল (ভিডিও)",
+  "NewsTitleSlug": "আপনারা-চিতল-মাছ-খান-আর-সাধারণ-মানুষ-না-খেয়ে-থাকে-:-ফখরুল-(ভিডিও)",
+  "NewsDetails": "বিএনপির মহাসচিব মির্জা ফখরুল ইসলাম আলমগীর আওয়ামী নেতাদের কটাক্ষ করে বলেছেন, আপনারা চিতল মাছ খান, বিদেশে যান, এসিতে থাকেন আর সাধারণ মানুষ না খেয়ে আছে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302181597"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302181597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636102e42cd60061039b91c0"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/bnp-1667056409.jpg",
+  "NewsTitle": "‘৪ ডিসেম্বর লোক জমায়েত করতে বিরিয়ানির অর্ডার দিয়েছে আ. লীগ’",
+  "NewsTitleSlug": "‘৪-ডিসেম্বর-লোক-জমায়েত-করতে-বিরিয়ানির-অর্ডার-দিয়েছে-আ.-লীগ’",
+  "NewsDetails": "আগামী ৪ ডিসেম্বর চট্টগ্রামে শেখ হাসিনার জনসমাবেশে লোক জমায়েত করতে অগ্রিম বিরিয়ানির অর্ডার দিয়ে রেখেছে বলে মন্তব্য করেছেন নগর বিএনপির আহ্বায়ক ডা. শাহাদাত হোসেন।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302116267"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302116267"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6361029e2cd60061039b91ba"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/moshiur-rahman-1667289663.jpg",
+  "NewsTitle": "খালেদা জিয়ার উপদেষ্টা মশিউর রহমান মারা গেছেন",
+  "NewsTitleSlug": "খালেদা-জিয়ার-উপদেষ্টা-মশিউর-রহমান-মারা-গেছেন",
+  "NewsDetails": "ঝিনাইদহ-২ সংসদীয় আসন সাবেক সাংসদ ও বিএনপি চেয়ারপার্সন উপদেষ্টা কাউন্সিলের সদস্য বীর মুক্তিযোদ্ধা আলহাজ মসিউর রহমান মারা গেছেন।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667302046982"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667302046982"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636102632cd60061039b91b4"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/mahabub-uddin-khokon-1667290327.jpg",
+  "NewsTitle": "‘বিএনপি ও জাতীয় পার্টির সব এমপি পদত্যাগ করলেও সংসদে প্রভাব পড়বে না’",
+  "NewsTitleSlug": "‘বিএনপি-ও-জাতীয়-পার্টির-সব-এমপি-পদত্যাগ-করলেও-সংসদে-প্রভাব-পড়বে-না’",
+  "NewsDetails": "বিএনপি ও জাতীয় পার্টির সব সংসদ সদস্য পদত্যাগ করলেও সংসদে কোনো প্রভাব পড়বে না বলে মন্তব্য করেছেন বিএনপির যুগ্ম মহাসচিব ব্যারিস্টার মাহবুব উদ্দিন খোকন।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301987819"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301987819"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636102232cd60061039b91ae"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/nazrul-1667291997.jpg",
+  "NewsTitle": "‘বিএনপির সমাবেশে জনগণের উপস্থিতি দেখে ভয়ে আওয়ামী লীগ’",
+  "NewsTitleSlug": "‘বিএনপির-সমাবেশে-জনগণের-উপস্থিতি-দেখে-ভয়ে-আওয়ামী-লীগ’",
+  "NewsDetails": "বিএনপির সমাবেশে জনগণের উপস্থিতি দেখে অস্তিত্ব নিয়ে ভয়ে আওয়ামী লীগ। এমন মন্তব্য করেছেন বিএনপির স্থায়ী কমিটির সদস্য নজরুল ইসলাম খান। ",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "bnp",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301923519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301954036"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636101ff2cd60061039b91aa"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/zti-lafalafi-kruk-tader-sngoe-jngn-nei-1667042434.jpg",
+  "NewsTitle": "শুনেছি বিএনপি মন্ত্রিপরিষদও গঠন করেছে : স্বরাষ্ট্রমন্ত্রী",
+  "NewsTitleSlug": "শুনেছি-বিএনপি-মন্ত্রিপরিষদও-গঠন-করেছে-:-স্বরাষ্ট্রমন্ত্রী",
+  "NewsDetails": "স্বরাষ্ট্রমন্ত্রী আসাদুজ্জামান খান কামাল বলেছেন, বিএনপি যতই লাফালাফি করুক তাদের সঙ্গে জনগণ নেই। বিএনপি ১০ ডিসেম্বর ক্ষমতা দখল করে নেবে বলে শুনেছি। তারা নাকি মন্ত্রিপরিষদও গঠন করেছে। বিএনপি এটি কীভাবে করতে পারে, তা আমার জানা নেই।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301887853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668439353533"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636101d92cd60061039b91a6"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/vuut-vule-thiki-nirwacne-zabe-bienpi-kader-vidioo-1667043547.jpg",
+  "NewsTitle": "তত্ত্ববধায়কের ভূত ভুলে ঠিকই নির্বাচনে যাবে বিএনপি : কাদের (ভিডিও)",
+  "NewsTitleSlug": "তত্ত্ববধায়কের-ভূত-ভুলে-ঠিকই-নির্বাচনে-যাবে-বিএনপি-:-কাদের-(ভিডিও)",
+  "NewsDetails": "আওয়ামী লীগের সাধারণ সম্পাদক এবং সড়ক পরিবহন ও সেতুমন্ত্রী ওবায়দুল কাদের বলেছেন, বিএনপি তত্ত্ববধায়েকের ভূত ভুলে নির্বাচনে ঠিকই যাবে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301849392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301849392"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636101a92cd60061039b91a2"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/aleeger-svapti-benjeer-sadharn-smpadk-pnirujjaman-1667044818.jpg",
+  "NewsTitle": "ঢাকা আ.লীগের সভাপতি বেনজীর, সাধারণ সম্পাদক পনিরুজ্জামান",
+  "NewsTitleSlug": "ঢাকা-আ.লীগের-সভাপতি-বেনজীর,-সাধারণ-সম্পাদক-পনিরুজ্জামান",
+  "NewsDetails": "ঢাকা জেলা আওয়ামী লীগের নতুন কমিটির সভাপতি নির্বাচিত হয়েছেন বেনজীর আহমেদ এবং সাধারণ সম্পাদক হয়েছেন পনিরুজ্জামান তরুণ।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301801757"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301801757"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6361017d2cd60061039b919e"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/oka-1667112663.jpg",
+  "NewsTitle": "জঙ্গি ও সাম্প্রদায়িক শক্তি ছাড়া বিএনপি অচল: কাদের",
+  "NewsTitleSlug": "জঙ্গি-ও-সাম্প্রদায়িক-শক্তি-ছাড়া-বিএনপি-অচল:-কাদের",
+  "NewsDetails": "জঙ্গি ও সাম্প্রদায়িক শক্তি ছাড়া বিএনপি অচল বলে মন্তব্য করেছেন আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদের। ",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301757417"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301757417"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6361015d2cd60061039b919a"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/702448-173-1667144534.jpg",
+  "NewsTitle": "পররাষ্ট্রমন্ত্রীর অসৌজন্যমূলক মন্তব্য প্রত্যাহারের দাবি ডিইউজের",
+  "NewsTitleSlug": "পররাষ্ট্রমন্ত্রীর-অসৌজন্যমূলক-মন্তব্য-প্রত্যাহারের-দাবি-ডিইউজের",
+  "NewsDetails": "দেশের সাংবাদিকতা নিয়ে পররাষ্ট্রমন্ত্রী ড. এ কে আবদুল মোমেনের অসৌজন্যমূলক মন্তব্যের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে ঢাকা সাংবাদিক ইউনিয়ন (ডিইউজে)।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301725446"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301725446"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6361011c2cd60061039b9196"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/nagad-1662998035.jpg",
+  "NewsTitle": "১০ ডিসেম্বর বিএনপির অপেক্ষায় রাজপথে থাকবে যুবলীগ",
+  "NewsTitleSlug": "১০-ডিসেম্বর-বিএনপির-অপেক্ষায়-রাজপথে-থাকবে-যুবলীগ",
+  "NewsDetails": "বিএনপির উদ্দেশে যুবলীগ চেয়ারম্যান শেখ ফজলে শামস পরশ বলেছেন, জামায়াত-শিবির ছাড়া বিএনপি আন্দোলন করতে পারে না। এখন তাদের নিয়ে সরকার উৎখাতের ষড়যন্ত্র করছে তারা। তারা নখদন্তহীন বাঘে পরিণত হয়েছে। এবার সরকারের বিরুদ্ধে মাঠে নামলে গণধোলাই খাবে। আমাদের ভয় দেখানোর চেষ্টা করবেন না, আমরা ভেসে আসিনি।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "politics",
+  "SubCategory": "awami-league",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301660728"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301660728"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6361004c2cd60061039b918b"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/nagad-1662998035.jpg",
+  "NewsTitle": "ব্যাংক থেকে ‘নগদ’-এ অ্যাড মানি করলেই ৫০ টাকা ইনস্ট্যান্ট বোনাস",
+  "NewsTitleSlug": "ব্যাংক-থেকে-‘নগদ’-এ-অ্যাড-মানি-করলেই-৫০-টাকা-ইনস্ট্যান্ট-বোনাস",
+  "NewsDetails": "‘নগদ’ অ্যাপ অথবা সংশ্লিষ্ট ব্যাংকের ইন্টারনেট ব্যাংকিং কিংবা মোবাইল অ্যাপ থেকে ‘নগদ’ ওয়ালেটে ‘ব্যাংক টু নগদ’ অপশন ব্যবহার করে ৩ হাজার টাকা অ্যাড মানি করলেই গ্রাহকরা পাচ্ছেন ৫০ টাকা ইনস্ট্যান্ট বোনাস। বিল পেমেন্ট থেকে শুরু করে বিভিন্ন কেনাকাটায় গ্রাহকদের সহজ ও সাশ্রয়ী সেবা নিশ্চিত করতেই ‘নগদ’ নিয়ে এসেছে দারুণ এই অ্যাড মানি অফার।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301452740"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301452740"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "636100162cd60061039b9187"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/111111-1664122452.jpg",
+  "NewsTitle": "এসিআই ও পবিপ্রবি’র মধ্যে বায়োচার প্রযুক্তি নিয়ে সমঝোতা স্মারক স্বাক্ষর",
+  "NewsTitleSlug": "এসিআই-ও-পবিপ্রবি’র-মধ্যে-বায়োচার-প্রযুক্তি-নিয়ে-সমঝোতা-স্মারক-স্বাক্ষর",
+  "NewsDetails": "এ্যাডভান্স কেমিক্যাল ইন্ডাস্ট্রিজ লিমিটেড (এসিআই) ও পটুয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়ের (পবিপ্রবি) মধ্যে একটি সমঝোতা স্মারক স্বাক্ষর অনুষ্ঠান উপাচার্য কার্যালয়ের সম্মেলন কক্ষে অনুষ্ঠিত হয়েছে। রোববার (২৫ সেপ্টেম্বর) পবিপ্রবি’র উপাচার্য প্রফেসর ড. স্বদেশ চন্দ্র সামন্ত’র উপস্থিতিতে এসিআই ফার্টিলাইজারের বিজনেস ডিরেক্টর বশির আহমেদ এবং বিশ্ববিদ্যালয়ের রেজিস্ট্রার ড. মোহাম্মদ কামরুল ইসলাম এই প্রযুক্তি বিনিময় স্মারকে স্বাক্ষর করেন।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301398940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301398940"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fff82cd60061039b9183"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/ksrm-1663779176.jpg",
+  "NewsTitle": "শুরু হচ্ছে চতুর্থ কেএসআরএম অ্যাওয়ার্ডস ফর ফিউচার আর্কিটেক্টস",
+  "NewsTitleSlug": "শুরু-হচ্ছে-চতুর্থ-কেএসআরএম-অ্যাওয়ার্ডস-ফর-ফিউচার-আর্কিটেক্টস---",
+  "NewsDetails": "চতুর্থবারের মতো শুরু হচ্ছে ‘কেএসআরএম অ্যাওয়ার্ডস ফর ফিউচার আর্কিটেক্টস: ২০২১-২০২২’। সম্প্রতি এ আয়োজনের আনুষ্ঠানিক ঘোষণা করা হয়। ‘ইনস্টিটিউট অব আর্কিটেক্টস’ স্বীকৃত বিশ্ববিদ্যালয়ের স্থাপত্য বিভাগের মেধাবী শিক্ষার্থীদের সৃজনশীল গবেষণাপত্রের ওপর ভিত্তি করে এ অ্যাওয়ার্ড প্রদান করা হয়। ইতোমধ্যে বিশ্ববিদ্যালয়গুলো স্থাপত্য বিভাগের প্রধানের কাছে প্রয়োজনীয় ডকুমেন্টসহ তাদের মনোনীত প্রকল্পগুলো জমা দেয়ার জন্য আমন্ত্রণপত্র পাঠানো হয়েছে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301368306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301368306"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360ffd92cd60061039b917f"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/nagad-1664021443.jpg",
+  "NewsTitle": "‘নগদ’ থেকে মাস্টারকার্ড ক্রেডিট কার্ডে পেমেন্ট করলে ৪০০ টাকা পর্যন্ত ক্যাশব্যাক",
+  "NewsTitleSlug": "‘নগদ’-থেকে-মাস্টারকার্ড-ক্রেডিট-কার্ডে-পেমেন্ট-করলে-৪০০-টাকা-পর্যন্ত-ক্যাশব্যাক",
+  "NewsDetails": "বাংলাদেশ ডাক বিভাগের মোবাইল ফাইন্যান্সিয়াল সার্ভিস ‘নগদ’-এর অ্যাপে মাস্টারকার্ড ক্রেডিট কার্ড সেভ করে বিল পেমেন্ট করলে গ্রাহকরা পাচ্ছেন সর্বোচ্চ ৪০০ টাকা পর্যন্ত ক্যাশব্যাক। এই অফারটি পেতে ‘নগদ’ অ্যাপে গ্রাহকের বাংলাদেশ ব্যাংক অনুমোদিত মাস্টারকার্ড ক্রেডিট কার্ডটি সেভ করতে হবে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301337979"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301337979"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360ffbc2cd60061039b917b"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022September/SM/5-1664283291.jpg",
+  "NewsTitle": "বিশ্ব হার্ট দিবসে ৩৫% ছাড় দিচ্ছে ইউনিভার্সেল মেডিকেল কলেজ এন্ড হাসপাতাল",
+  "NewsTitleSlug": "বিশ্ব-হার্ট-দিবসে-৩৫%-ছাড়-দিচ্ছে-ইউনিভার্সেল-মেডিকেল-কলেজ-এন্ড-হাসপাতাল",
+  "NewsDetails": "বিশ্ব হার্ট দিবস পালিত হবে ২৯ সেপ্টেম্বর। বিশেষ এ দিবসে ইউনিভার্সেল মেডিকেল কলেজ এন্ড হাসপাতাল কার্ডিওভাসকুলার ডিজিজ সম্পর্কে জনসচেতনতা বৃদ্ধির লক্ষ্যে একই দিনে আয়োজন করতে যাচ্ছে ফ্রি স্বাস্থ্যসেবা তথা হেলথ ক্যাম্প।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301308299"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301308299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360ff9f2cd60061039b9177"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/biman-1667207699.jpg",
+  "NewsTitle": "নভোএয়ারের রাজশাহী-কক্সবাজার রুটে সরাসরি ফ্লাইট চালু",
+  "NewsTitleSlug": "নভোএয়ারের-রাজশাহী-কক্সবাজার-রুটে-সরাসরি-ফ্লাইট-চালু",
+  "NewsDetails": "রাজশাহী থেকে কক্সবাজার রুটে ১৭ নভেম্বর থেকে ফ্লাইট পরিচালনার ঘোষণা দিয়েছে নভোএয়ার। একইসঙ্গে কক্সবাজারে তিন রাত হোটেল ফ্রি প্যাকেজ ঘোষণা করেছে প্রতিষ্ঠানটি।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301279216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301279216"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360ff7f2cd60061039b9173"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/nagad-1667234581.jpg",
+  "NewsTitle": "সিদীপ গ্রাহকরা বিনা খরচে সঞ্চয় ও ‍ঋণের কিস্তি দিতে পারবেন ‘নগদ’-এ",
+  "NewsTitleSlug": "সিদীপ-গ্রাহকরা-বিনা-খরচে-সঞ্চয়-ও-‍ঋণের-কিস্তি-দিতে-পারবেন-‘নগদ’-এ",
+  "NewsDetails": "নিম্নআয়ের মানুষের মাঝে ক্ষুদ্রঋণ প্রকল্পকে আরও গতিশীল ও সহজতর করার জন্য ডাক বিভাগের মোবাইল ফাইন্যান্সিয়াল সার্ভিস ‘নগদ’ লিমিটেড-এর সঙ্গে সেন্টার ফর ডেভেলপমেন্ট ইনোভেশন অ্যান্ড প্র্যাকটিসেস (সিদীপ)-এর একটি চুক্তি স্বাক্ষরিত হয়েছে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "economy",
+  "SubCategory": "commercial",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301247334"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301247334"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360feef2cd60061039b916b"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/manikganj-1666683984.jpg",
+  "NewsTitle": "মানিকগঞ্জে গ্যাস লাইনের লিকেজে আগুন, শিশুসহ দগ্ধ ৪",
+  "NewsTitleSlug": "মানিকগঞ্জে-গ্যাস-লাইনের-লিকেজে-আগুন,-শিশুসহ-দগ্ধ-৪",
+  "NewsDetails": "বিএনপি ক্ষমতায় এলে দেশের উন্নয়ন বন্ধ হয়ে যাবে: স্বাস্থ্যমন্ত্রী",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "countries",
+  "SubCategory": "dhaka",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301103976"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667301103976"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fec62cd60061039b9167"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/medhabee-sikshartheeder-ucc-sikshar-suzog-debe-iiu-1667128119.jpg",
+  "NewsTitle": "বাংলাদেশি মেধাবী শিক্ষার্থীদের উচ্চ শিক্ষার সুযোগ দেবে ইইউ",
+  "NewsTitleSlug": "বাংলাদেশি-মেধাবী-শিক্ষার্থীদের-উচ্চ-শিক্ষার-সুযোগ-দেবে-ইইউ",
+  "NewsDetails": "দোহারে নৌ-পুলিশের উপর জেলেদের সংঘবদ্ধ হামলা, আহত ৭",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "countries",
+  "SubCategory": "dhaka",
+  "Tags": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667301062174"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667370409669"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fe562cd60061039b9160"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/qatar-1667042295.jpg",
+  "NewsTitle": "কাতারে পর্তুগালকে ফাইনালে হারিয়ে শিরোপা উঠবে মেসির হাতে!",
+  "NewsTitleSlug": "কাতারে-পর্তুগালকে-ফাইনালে-হারিয়ে-শিরোপা-উঠবে-মেসির-হাতে!",
+  "NewsDetails": "গ্রেটেস্ট শো অন আর্থ খ্যাত কাতার বিশ্বকাপ ফুটবল শুরু হতে বাকি মাত্র ২২ দিন। আগামী ২০ নভেম্বর স্বাগতিক কাতার ও ইকুয়েডরের মধ্যকার ম্যাচ দিয়ে মাঠে গড়াবে এ আসর। তার আগে একটি সুপার কম্পিউটার ১৮ ডিসেম্বরের ফাইনাল নিয়ে করেছে ভবিষ্যদ্বাণী। যা ইতোমধ্যে শোরগোল ফেলে দিয়েছে। সুপার কম্পিউটার জানিয়েছে কাতার খেলবে ১৮ ডিসেম্বরে লুসাইলের সেই স্টেডিয়ামে এবং কার হাতেই বা উঠবে সেই সোনালী ট্রফি।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "football",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667300950555"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668438862435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fe072cd60061039b915c"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/maradona-1667129724.jpg",
+  "NewsTitle": "মোটা অঙ্কের উপহার পেয়ে কাতারের পক্ষে বলছে ইংল্যান্ডের সংসদ সদস্যরা!",
+  "NewsTitleSlug": "মোটা-অঙ্কের-উপহার-পেয়ে-কাতারের-পক্ষে-বলছে-ইংল্যান্ডের-সংসদ-সদস্যরা!",
+  "NewsDetails": "বিশ্বকাপকে সামনে রেখে কাতারের কাছ থেকে মোটা অঙ্কের উপহার পেয়েছে ইংল্যান্ডের সংসদ সদস্যরা। অবজারভারের অনুসন্ধানী রিপোর্টে উঠে এসেছে এমন চমকপ্রদ তথ্য। তাই নিজে সমকামী হয়েও কাতারের পক্ষে কথা বলছেন ইংলিশ এমপি ডেভিড মুন্ডেল। এদিকে আয়োজক কাতার হলেও মোটা অঙ্কের মুনাফার চিন্তা আরব আমিরাতের।.",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "football",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667300871702"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668437356405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fdde2cd60061039b9158"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022October/SM/australia-ireland-1667193115.jpg",
+  "NewsTitle": "দিনের একমাত্র ম্যাচে অস্ট্রেলিয়ার মুখোমুখি হবে আয়ারল্যান্ড",
+  "NewsTitleSlug": "দিনের-একমাত্র-ম্যাচে-অস্ট্রেলিয়ার-মুখোমুখি-হবে-আয়ারল্যান্ড",
+  "NewsDetails": "টি-টোয়েন্টি বিশ্বকাপে দিনের একমাত্র ম্যাচে সোমবার (৩১ অক্টোবর) সোমবার আয়ারল্যান্ডের মুখোমুখি স্বাগতিক হবে অস্ট্রেলিয়া। ম্যাচটি শুরু হবে বাংলাদেশ সময় দুপুর ২টায়। এছাড়া খেলা রয়েছে হকি চ্যাম্পিয়ন্স লিগের। রাতে মাঠে গড়াবে সিরি আ ও লা লিগার খেলাও। ",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "football",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667300830290"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667300830290"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fdc02cd60061039b9154"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/france-1667271197.jpg",
+  "NewsTitle": "ইনজুরিতে ছিটকে গেলেন ফ্রান্সের বিশ্বকাপজয়ী তারকা",
+  "NewsTitleSlug": "ইনজুরিতে-ছিটকে-গেলেন-ফ্রান্সের-বিশ্বকাপজয়ী-তারকা",
+  "NewsDetails": "ইনজুরিতে বিশ্বকাপ শেষ পল পগবার। হাঁটুর অস্ত্রপচার করালেও পুরোপুরি সুস্থ্য হতে আরও সময় লাগবে ফ্রেঞ্চ মিডফিল্ডারের। বিষয়টি নিশ্চিত করেছেন তার এজেন্ট ও জুভেন্টাস দু’পক্ষই। ",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "football",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667300800563"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667300800563"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360fda12cd60061039b9150"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/lo-solso-1667273256.JPG",
+  "NewsTitle": "বিশ্বকাপের আগে আর্জেন্টিনাকে বড় দুঃসংবাদ দিলেন তারকা ফুটবলার",
+  "NewsTitleSlug": "বিশ্বকাপের-আগে-আর্জেন্টিনাকে-বড়-দুঃসংবাদ-দিলেন-তারকা-ফুটবলার",
+  "NewsDetails": "কিছুদিন আগেই মাসকুলার সংকোচনের ইনজুরি কাটিয়ে ভিয়ারিয়ালের দলে ফিরেন আর্জেন্টাইন মিডফিল্ডার জিওভানি লো সোলসো। বিশ্বকাপের আগে যা আর্জেন্টাইন ভক্তদের জন্য সুখবরই ছিল এবং বিশ্বকাপের মূল স্কোয়াড ঘোষণার আগে আলবিসেলেস্তে কোচ লিওনেল স্কালোনিও ফেলেছিলেন স্বস্তির নিশ্বাস। কিন্তু তা আর ক্ষণস্থায়ী হলো না।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "football",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667300769970"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667300769970"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360f33cbf6d7c345fed8923"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/SM/rahul-1667296668.jpg",
+  "NewsTitle": "ম্যাচের আগে বাংলাদেশকে নিয়ে যা বললেন দ্রাবিড়",
+  "NewsTitleSlug": "ম্যাচের-আগে-বাংলাদেশকে-নিয়ে-যা-বললেন-দ্রাবিড়",
+  "NewsDetails": "চলমান টি-টোয়েন্টি বিশ্বকাপের সুপার টুয়লভের ২৩তম ম্যাচে মুখোমুখি হবে বাংলাদেশ ভারত। বুধবার (২ নভেম্বর) অ্যাডিলেডে বাংলাদেশ সময় দুপুর ২টায় মাঠে গড়াবে ম্যাচটি। দুই জয় ও এক পরাজয়ে দুই দলেরই সমান চারটি করে পয়েন্ট। সেমিফাইনালের লড়াইয়ে এগিয়ে যেতে জয়ের বিকল্প নেই বাংলাদেশ-ভারতের সামনে।",
+  "NewsStatus": true,
+  "NewsViews": 0,
+  "Category": "sports",
+  "SubCategory": "cricket",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667298108573"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668438246434"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6360dbc3552ccb990f7746e8"
+  },
+  "UserId": {
+    "$oid": "6360aa39bbf7ae449480dd39"
+  },
+  "NewsThumbnail": "https://backoffice.channel24bd.tv/media/imgAll/2022November/shakib-1667280285.jpg",
+  "NewsTitle": "আমরা ফেভারিট না, বিশ্বকাপ জিততেও আসিনি: সাকিব",
+  "NewsTitleSlug": "আমরা-ফেভারিট-না,-বিশ্বকাপ-জিততেও-আসিনি:-সাকিব",
+  "NewsDetails": "জিম্বাবুয়েকে ব্রিসবেন ছেড়ে অ্যাডিলেডে পা রাখার পর সোমবার বিশ্রামে কাটিয়েছেন ক্রিকেটাররা। মানসিকভাবে চাঙা রাখতেই টাইগারদের অনুশীলন বাতিল করে টিম ম্যানেজমেন্ট। সেমিফাইনালের রেসে টিকে থাকার লড়াইয়ে আগামীকাল (বুধবার) ভারতের বিপক্ষে নামবে বাংলাদেশ। অ্যাডিলেডে দুপুর ২টায় শুরু হবে ম্যাচটি।",
+  "NewsStatus": true,
+  "NewsViews": 15,
+  "Category": "sports",
+  "SubCategory": "cricket",
+  "Tags": [
+    "cricket"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667292099813"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668437599138"
+    }
+  }
+}]

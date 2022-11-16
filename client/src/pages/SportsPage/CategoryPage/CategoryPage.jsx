@@ -11,10 +11,8 @@ import SectionTitle from "../../../components/SectionTitle/SectionTitle";
 import Layout from "../../../components/Layout/Layout";
 import NewsRequest from "../../../APIRequest/NewsRequest";
 
-function CategoryPage() {
+function CategoryPage({ label }) {
   const { NewsLists } = useSelector((state) => state.News);
-
-  console.log(NewsLists);
 
   useEffect(() => {
     NewsRequest.NewsList();
@@ -24,7 +22,7 @@ function CategoryPage() {
     <Layout>
       <main>
         <Container>
-          <SectionTitle title={"খেলা"} />
+          <SectionTitle title={label} />
           <Row>
             <Col lg={9}>
               <SportsGrid />
